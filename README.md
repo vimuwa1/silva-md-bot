@@ -18,13 +18,13 @@
   <a href="https://x.com/Itz_Me_Senula_2007"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"></a>
 </p>
 
-> A powerful WhatsApp userbot built using the [Baileys](https://github.com/vimuwa1/) library.  
+> A powerful userbot built using the [Baileys](https://github.com/vimuwa1/) library.  
 > Automate, interact, and explore AI, media tools, reactions, polls, and more!  
 > Built with ❤️ by [Itz_Me_Senula_2007_Inc](https://github.com/vimuwa1/).
 
 <p align="center">
   <a href="https://github.com/vimuwa1/Ai-Detective-Tele-Bot>
-    <img alt="Silva docs" height="250" src="https://i.imgur.com/RvEKtPJ.jpeg">
+    <img alt="Senula docs" height="250" src="https://i.imgur.com/RvEKtPJ.jpeg">
   </a>
 </p>
 
@@ -82,8 +82,8 @@
 
 ## 🔄 People Who Forked and 
 
-[![Forkers](https://reporoster.com/forks/SilvaTechB/silva-md-bot)](https://github.com/vimuwa1/Ai-Detective-Tele-Bot/network/members)
-[![Stars](https://reporoster.com/stars/SilvaTechB/silva-md-bot)](https://github.com/vimuwa1/Ai-Detective-Tele-Bot/network/members)
+[![Forkers](https://reporoster.com/forks/vimuwa1/Ai-Detective-Tele-Bot)](https://github.com/vimuwa1/Ai-Detective-Tele-Bot/network/members)
+[![Stars](https://reporoster.com/stars/vimuwa1/Ai-Detective-Tele-Bot)](https://github.com/vimuwa1/Ai-Detective-Tele-Bot/network/members)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
